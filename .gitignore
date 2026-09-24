@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+*.wav
+*.mp3
+*.ogg
+*.m4a
+*.log
+.DS_Store
+*.onnx
+*.onnx.json
+*.deb
+*.whl
+*.tar.gz
